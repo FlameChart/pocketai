@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "space.welkin.pocketai",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
